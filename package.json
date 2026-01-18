@@ -1,6 +1,6 @@
 {
   "name": "make-jquery-global",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Make jQuery global",
   "keywords": [
     "jquery"
@@ -21,7 +21,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "jquery": "^4.0.0",
+    "jquery": "^3.7.1",
     "system.global": "^2.0.0"
   }
 }
